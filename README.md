@@ -36,28 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 To contribute to this repository, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 
-### Example Repository Structure
 
-Introduction_to_Cloud_Architecture_Notes/
-│
-├── Lecture_Notes/
-│   ├── Module_1_Introduction.md
-│   ├── Module_2_Service_Models.md
-│   └── ...
-├── Diagrams/
-│   ├── Cloud_Deployment_Models.png
-│   └── ...
-├── Code_Examples/
-│   ├── Example_1_Cloud_Init.yaml
-│   └── ...
-├── Exercises/
-│   ├── Practice_1.md
-│   └── ...
-├── References/
-│   ├── Books.md
-│   └── Articles.md
-└── Projects/
-    ├── Project_1.md
-    └── Project_2.md
-    └── Project_3.md
+
 
