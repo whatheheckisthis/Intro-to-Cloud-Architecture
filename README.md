@@ -27,10 +27,4 @@ Welcome to the **Introduction to Cloud Architecture** notes repository! This rep
 
 Feel free to explore the notes and resources provided in this repository. Contributions and suggestions are welcome to enhance the learning experience for everyone. 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-To contribute to this repository, please follow the [contribution guidelines](CONTRIBUTING.md).
