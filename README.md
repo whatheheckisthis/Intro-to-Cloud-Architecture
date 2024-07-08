@@ -1,32 +1,63 @@
 # Introduction To Cloud Architecture 
 
+Welcome to the **Introduction to Cloud Architecture** notes repository! This repo contains comprehensive notes, resources, and examples covering key concepts of cloud architecture, intended to assist both beginners and intermediate learners in understanding and applying cloud principles effectively.
 
-<br/>
-As a cybersecurity enthusiast, I like to take notes using Markdown (Obsidian). <br/>
-To get the most out of the experience, install Obsidian and configure it
-<br/>
+## Contents
 
-In these notes, you can find:
-- CTFs Write-ups
-- Cheat Sheets
-- Projects
--  [...]
+- **Lecture Notes**: Detailed summaries and insights from lectures and readings.
+- **Diagrams**: Visual representations of cloud architecture components and workflows.
+- **Code Examples**: Sample code snippets demonstrating cloud solutions and best practices.
+- **Exercises**: Practice problems and hands-on activities to reinforce learning.
+- **References**: Curated list of books, articles, and online resources for further study.
+- **Projects**: Example projects illustrating cloud architecture in action. **Note: These projects are for educational purposes only and should not be reproduced or used in production environments.**
 
-<br/>
+## Topics Covered
 
-# Obsidian Installation
-## Windows
-1. [Download](https://obsidian.md/) and Install Obsidian.
+- Introduction to Cloud Computing
+- Cloud Service Models (IaaS, PaaS, SaaS)
+- Cloud Deployment Models (Public, Private, Hybrid, Multi-cloud)
+- Cloud Security and Compliance
+- Scalability and Performance in the Cloud
+- Cloud Storage Solutions
+- Virtualization and Containerization
+- Networking in the Cloud
+- Cost Management and Optimization
 
-## Kali
-1. [Download](https://obsidian.md/) the AppImage and put it in the Directory you want.
-2. Execute the command `/path/to/Obsidian-X.X.X.AppImage --no-sanbox`<br/>
-[//]: You can create an alias for this. 
+## Usage
 
-<br/>
+Feel free to explore the notes and resources provided in this repository. Contributions and suggestions are welcome to enhance the learning experience for everyone. 
 
-## Kali
-1. Clone the repository with this command:
-```bash
-$ git clone https://github.com/impulsado/wannaNotes.git
-``
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+To contribute to this repository, please follow the [contribution guidelines](CONTRIBUTING.md).
+
+
+### Example Repository Structure
+
+Introduction_to_Cloud_Architecture_Notes/
+│
+├── Lecture_Notes/
+│   ├── Module_1_Introduction.md
+│   ├── Module_2_Service_Models.md
+│   └── ...
+├── Diagrams/
+│   ├── Cloud_Deployment_Models.png
+│   └── ...
+├── Code_Examples/
+│   ├── Example_1_Cloud_Init.yaml
+│   └── ...
+├── Exercises/
+│   ├── Practice_1.md
+│   └── ...
+├── References/
+│   ├── Books.md
+│   └── Articles.md
+└── Projects/
+    ├── Project_1.md
+    └── Project_2.md
+    └── Project_3.md
+
