@@ -1,6 +1,7 @@
 # Introduction To Cloud Architecture 
 
-Welcome to the **Introduction to Cloud Architecture** notes repository! This repo contains comprehensive notes, resources, and examples covering key concepts of cloud architecture, intended to assist both beginners and intermediate learners in understanding and applying cloud principles effectively.
+Welcome to the **Introduction to Cloud Architecture** notes repository! This repo contains comprehensive notes, resources, and examples covering key concepts of cloud architecture, intended to assist both beginners and intermediate learners in understanding and applying cloud principles effectively. 
+- [Cybersecurity Microcredential ](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500)
 
 ## Contents
 
@@ -24,7 +25,16 @@ Welcome to the **Introduction to Cloud Architecture** notes repository! This rep
 - Cost Management and Optimization
 
 ## Usage
+Make sure you have [Obsidian](https://obsidian.md/) installed to use the link.
+  
+Resources / Useful Links
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [Obsidian Note-Taking App](https://obsidian.md)
+- [ Microsoft Certifications ](https://learn.microsoft.com/en-us/training/)
+- [Microsoft Azure for students + $100 Azure credits ](https://azure.microsoft.com/en-us/free/students/)
+- [ Install Azure CLI ]( https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 
-Feel free to explore the notes and resources provided in this repository. Contributions and suggestions are welcome to enhance the learning experience for everyone. 
+
 
 
